@@ -1,0 +1,27 @@
+Speech Recognition AI
+Description
+Natural Language Processing is a part of artificial intelligence that involves analyzing data related to natural language and converting it into a machine- comprehendible format. Speech recognition and AI play a pivotal role in NLPs in improving the accuracy and efficiency of human language recognition. A lot of businesses now include speech-to-text software or speech recognition AI to enhance their business applications and improve customer experience. By using speech recognition AI and natural language processing together, companies can transcribe calls, meetings etc. Giant companies like Apple, Google, and Amazon are leveraging AI-based speech or voice recognition applications to provide a flawless customer experience.
+http://speech-ai
+
+
+
+Product Sales Data Analysis
+Description
+Businesses must keep detailed records of their sales for a variety of reasons. However, if there is too much data, it often becomes difficult to keep track of everything. Analyzing sales data allows companies to keep track of their sales and answer all critical questions regarding their performance. This sales data analysis project entails analyzing a company's sales data and indicating profit by product, sales, and other significant factors that might influence the company's performance. You can use Microsoft's sample dataset. The data set must be connected to Power BI Desktop to remove irrelevant data before visualizing and exporting the filtered data as dashboards. The dashboard could leverage Power BI visualization types such as Pie Charts, Bar Charts, Doughnut Charts, Funnel Charts, etc.
+http://power-bi
+
+
+Food Delivery App
+Description
+Food delivery applications (FDAs), mobile apps used to order food from food-aggregator platforms, are a subset of online food delivery (OFD) platforms, which include both restaurant-to-consumer delivery and food-ordering platforms (aggregator-to-consumer delivery). Jointly, such platforms represent online-to-offline (O2O) services. One can estimate the growing popularity of FDAs from the fact that FDAs are used daily for 15 million food deliveries in China and 1 million food deliveries in India (Jindal, 2018). Notably, Statista (2019) projects the revenue from this platform to the consumer segment to grow globally at 9.8% from 2019 to 2024.
+http://food-delivery
+
+Grocery Delivery App
+Description
+A grocery delivery website or application is among the best projects for full-stack developers to showcase their talent and skills. You can learn multiple factors related to large-scale full-stack apps or websites by making the grocery delivery application project. It involves back-end knowledge and helps you excel in making major projects in the future. It involves back-end knowledge and helps you excel in making major projects in the future.
+http:/grocery
+
+Chat Application
+Description
+Everyone chats with their family members and friends daily, and because of this, chatting applications have become an inevitable part of our lives. Chatting apps are one of the best full-stack beginner projects. You can create a chat application or website to serve the purpose of individual or group chats between networks. Source Code: Chat Application
+http://chatapp
